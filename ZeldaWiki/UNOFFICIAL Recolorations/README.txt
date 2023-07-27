@@ -1,0 +1,1 @@
+Because the ZeldaWiki logo is white, this makes it generally impossible to read on standard displays. Some sites use the following recolorations at present, and may be useful.
